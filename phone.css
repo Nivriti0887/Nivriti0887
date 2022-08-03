@@ -1,0 +1,30 @@
+/* Home */
+#home{
+    height: 820px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+
+/* About */
+#intro h2{
+    font-size: 1.5rem;
+}
+
+/* Skills */
+.gallery img{
+    width: 180px;
+    height: 80px;
+    margin: 10px;
+}
+
+/* Contact Me */
+.input{
+    width: 80%;
+}
+#msg{
+    width: 70%;
+}
+#send{
+    width: 20%;
+}
